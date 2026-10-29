@@ -13,8 +13,8 @@ I'm a big transformers fan 🤖
 #### 🪨📜✂️
 
 <p align="center">
-  <img src="files/gif.gif" width="80%" alt="Main Gameplay Loop" />
-  <img src="files/image.png" width="80%" alt="End Screen" />
+  <img src="files/gif.gif" width="50%" alt="Main Gameplay Loop" />
+  <img src="files/image.png" width="50%" alt="End Screen" />
 </p>
 
 **[Stone Paper Scissors game](https://github.com/Rithwik-7274/Stone-Paper-Scissors-Game)**
